@@ -12,7 +12,7 @@ https://your-vercel-link.vercel.app
 
 ## 📂 GitHub Repository
 
-https://github.com/your-username/fintrack-dashboard
+https://github.com/Greeva48/fintrack-dashboard
 
 ---
 
